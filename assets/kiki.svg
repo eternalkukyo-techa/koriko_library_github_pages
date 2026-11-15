@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 130" width="240" height="130">
+<!-- tali paket -->
+<path d="M176 68 V92" stroke="#26212F" stroke-width="1.5"/>
+<rect x="164" y="92" width="24" height="19" rx="2" fill="#CDA56C" stroke="#A47B43" stroke-width="2"/>
+<path d="M176 92 V111 M164 101.5 H188" stroke="#D12F43" stroke-width="3"/>
+<!-- sapu -->
+<path d="M34 90 L8 79 Q2 92 9 105 L34 96Z" fill="#D9B25C"/>
+<path d="M10 84 L32 92 M8 91 L32 94 M10 99 L32 96" stroke="#A9722F" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M20 92 L220 61" stroke="#8A5A2B" stroke-width="5.5" stroke-linecap="round"/>
+<path d="M33 87 L36 99" stroke="#A9722F" stroke-width="5" stroke-linecap="round"/>
+<!-- Jiji -->
+<path d="M66 80 Q48 74 52 54" stroke="#26212F" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+<ellipse cx="73" cy="70" rx="9.5" ry="12" fill="#26212F"/>
+<circle cx="81" cy="54" r="8" fill="#26212F"/>
+<path d="M75 50 L77 40 L82 48Z M83 48 L89 40 L89 50Z" fill="#26212F"/>
+<circle cx="79" cy="54" r="1.8" fill="#fff"/><circle cx="85" cy="54" r="1.8" fill="#fff"/>
+<circle cx="79.4" cy="54" r=".8" fill="#26212F"/><circle cx="85.4" cy="54" r=".8" fill="#26212F"/>
+<!-- kaki -->
+<path d="M112 98 L110 112 M126 96 L128 110" stroke="#F3C9A5" stroke-width="5" stroke-linecap="round"/>
+<path d="M104 114 h12 v-4 h-10z M123 112 h12 v-4 h-10z" fill="#26212F"/>
+<!-- gaun -->
+<path d="M106 46 Q98 70 94 98 Q120 104 148 96 Q140 70 128 46Z" fill="#26212F"/>
+<!-- lengan -->
+<path d="M123 50 L135 61" stroke="#26212F" stroke-width="8" stroke-linecap="round"/>
+<path d="M135 61 L147 70" stroke="#F3C9A5" stroke-width="5" stroke-linecap="round"/>
+<circle cx="148" cy="71" r="3.6" fill="#F3C9A5"/>
+<!-- kepala -->
+<path d="M105 30 Q103 8 118 8 Q135 8 133 30 Q130 22 118 20 Q110 21 105 30Z" fill="#3A2A2A"/>
+<path d="M105 26 Q99 40 107 46 L109 32Z" fill="#3A2A2A"/>
+<circle cx="119" cy="31" r="12" fill="#F3C9A5"/>
+<path d="M104 27 Q106 14 118 14 Q132 14 133 26 Q126 18 117 19 Q109 20 104 27Z" fill="#3A2A2A"/>
+<circle cx="125" cy="31" r="1.5" fill="#26212F"/>
+<circle cx="126" cy="36" r="2.4" fill="#E9967A" opacity=".5"/>
+<path d="M127 38 q-3 2 -6 0" stroke="#A8553F" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<!-- pita -->
+<ellipse cx="108.5" cy="11" rx="9" ry="5" transform="rotate(-22 108.5 11)" fill="#D12F43"/>
+<ellipse cx="127.5" cy="11" rx="9" ry="5" transform="rotate(22 127.5 11)" fill="#D12F43"/>
+<circle cx="118" cy="12.5" r="4" fill="#A41F32"/>
+</svg>
